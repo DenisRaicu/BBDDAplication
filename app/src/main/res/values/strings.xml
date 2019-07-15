@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BBDDAplication</string>
+    <string name="txt_cod_str">Inserta codigo del producto</string>
+    <string name="txt_nombre_str">Inserta nombre del producto</string>
+    <string name="txt_preecio_str">Inserta precio del producto</string>
+    <string name="btn_crear_str">Registrar Producto</string>
+    <string name="btn_buscar_str">Buscar Producto</string>
+    <string name="btn_eliminar_str">Eliminar Producto</string>
+    <string name="btn_modificar_str">Modificar Producto</string>
+</resources>
